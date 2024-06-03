@@ -4,6 +4,8 @@ dlib官网只有Python 3.6的whl文件，没有 3.7版本的。
 
 这个文件：dlib-19.17.0-cp37-cp37m-win_amd64.whl是针对Python 3.7版本的。
 
+补充了3.10的版本: dlib-19.22.99-cp310-cp310-win_amd64.whl。
+
 下载到d:\根目录，安装命令：
 
 pip install d:\dlib-19.17.0-cp37-cp37m-win_amd64.whl
